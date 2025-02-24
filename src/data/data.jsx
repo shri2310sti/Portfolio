@@ -1,11 +1,7 @@
 import alexa from "../assets/alexa.jpg";
-// import portfolioImg from "../assets/portfolio.jpg";
 import amazon from "../assets/Amazon.png";
 import netflix from "../assets/netflix.png";
-// import expenseImg from "../assets/expense.jpg";
-// import mngImg from "../assets/mng.png";
-// import payImg from "../assets/paytm.jpg";
-// import blogImg from "../assets/blog.jpg";
+
 
 export const socialsList = [
   {
