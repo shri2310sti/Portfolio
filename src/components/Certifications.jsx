@@ -1,4 +1,5 @@
 import React from 'react';
+import nptelImage from '../assets/nptel.png';
 
 export function Certifications() {
   return (
@@ -31,7 +32,7 @@ export function Certifications() {
             <p className="text-gray-200">NPTEL</p>
             <p className="text-sm text-gray-300">Issued: April 2024</p>
             <a
-              href="file:///Users/shristishrivastava/Downloads/Cloud%20Computing.pdf"
+              href={nptelImage}
               className="text-black mt-2 inline-block underline"
               target="_blank"
               rel="noopener noreferrer"
