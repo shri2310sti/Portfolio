@@ -9,7 +9,7 @@ export function Navbar() {
   const menuRef = useRef(null);
 
   const handleViewResume = () => {
-    const pdfUrl = "https://drive.google.com/file/d/13NlslHMgWbdfvYdHyvMv63l45WRLMdzc/view?pli=1";
+    const pdfUrl = "https://drive.google.com/file/d/1zI4TeLZbCH5Rya4YNJmgSMn8JSUMMolX/view?usp=sharing";
     window.open(pdfUrl, "_blank");
   };
 
